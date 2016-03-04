@@ -1,5 +1,5 @@
 {
-    "name": "kaos/apifyControllers",
+    "name": "kaos/apify-controllers",
     "description": "a package for laravel to create api based controllers",
     "keywords": ["resource","rest", "apify"],
     "license": "MIT",
