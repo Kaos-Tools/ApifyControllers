@@ -1,0 +1,20 @@
+{
+    "name": "kaos/apifyControllers",
+    "description": "a package for laravel to create api based controllers",
+    "keywords": ["resource","rest", "apify"],
+    "license": "MIT",
+    "homepage": "http://kemalkanok.com",
+    "support": {
+        "issues": "https://github.com/Kaos-Tools/ApifyControllers/issues",
+        "source": "https://github.com/Kaos-Tools/ApifyControllers"
+    },
+    "authors": [
+        {
+            "name": "Kemal Kanok",
+            "email": "kemalkanok@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
